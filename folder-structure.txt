@@ -1,0 +1,10 @@
+js-practice/
+├── sheet-01/
+│   ├── ex01.js
+│   ├── ex02.js
+│   └── ...
+├── sheet-02/
+│   ├── ex01.js
+│   └── ...
+├── README.md
+└── .gitignore
